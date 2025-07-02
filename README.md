@@ -36,4 +36,7 @@ Run the ioioi(3).ipynb notebook to process all images and save outputs.
 
 ## 🔧 Requirements
 See requirements.txt for dependencies. Install with:
-```{python}pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
+
