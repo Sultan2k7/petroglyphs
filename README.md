@@ -33,9 +33,7 @@ masks_output.zip
 Run the notebook to process all images and save outputs.
 
 ## 🔧 Requirements
-Python 3.8+
-Ultralytics YOLO (pip install ultralytics)
-OpenCV
-Torchvision
-NumPy
-Pillow
+See requirements.txt for dependencies. Install with:
+"
+pip install -r requirements.txt
+"
