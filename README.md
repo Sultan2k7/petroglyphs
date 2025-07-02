@@ -32,7 +32,7 @@ masks_output.zip
 
 ## ▶️ Usage
 
-Run the notebook to process all images and save outputs.
+Run the ioioi(3).ipynb notebook to process all images and save outputs.
 
 ## 🔧 Requirements
 See requirements.txt for dependencies. Install with:
