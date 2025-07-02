@@ -20,13 +20,15 @@ This project performs segmentation of petroglyphs from images using two YOLO mod
 
 ## 📁 Output Structure
 
+```
 masks_output.zip
 ├── output_bw/
-│ ├── image1.png 
-│ └── image2.png
+│   ├── image1.png 
+│   └── image2.png
 ├── output_color/
-│ ├── image1.png 
-│ └── image2.png
+│   ├── image1.png 
+│   └── image2.png
+```
 
 ## ▶️ Usage
 
