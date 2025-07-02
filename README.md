@@ -36,4 +36,4 @@ Run the notebook to process all images and save outputs.
 
 ## 🔧 Requirements
 See requirements.txt for dependencies. Install with:
-```{python} pip install -r requirements.tx("Hello Python!") ```
+```{python}pip install -r requirements.txt```
