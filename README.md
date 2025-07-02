@@ -28,11 +28,11 @@ masks_output.zip
 │ ├── image1.png 
 │ └── image2.png
 
-## Usage
+## ▶️ Usage
 
 Run the notebook to process all images and save outputs.
 
-## Requirements
+## 🔧 Requirements
 Python 3.8+
 Ultralytics YOLO (pip install ultralytics)
 OpenCV
