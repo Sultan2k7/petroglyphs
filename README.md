@@ -4,7 +4,7 @@ This project performs segmentation of petroglyphs from images using two YOLO mod
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Object Detection**: Two YOLO models (`model` and `model2`) detect bounding boxes on each input image.
 2. **Segmentation per Box**:
@@ -27,11 +27,12 @@ masks_output.zip
 ├── output_color/
 │ ├── image1.png 
 │ └── image2.png
-## ▶️ Usage
+
+## Usage
 
 Run the notebook to process all images and save outputs.
 
-## 🔧 Requirements
+## Requirements
 Python 3.8+
 Ultralytics YOLO (pip install ultralytics)
 OpenCV
