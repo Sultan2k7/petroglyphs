@@ -1,0 +1,1 @@
+Output color masks of petroglyphs.
